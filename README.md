@@ -1,2 +1,2 @@
-# landing-page_angeles_fondo-blanco
-Esta página tiene el background blanco
+# landing-page_angeles_fondo-gradiente
+Esta página tiene el background gradient
